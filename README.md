@@ -4,7 +4,7 @@
 
 👋🏻 Olá!, Estou me formando como Desenvolvedor de Software Full Stack, adquirindo experiência com front-end (HTML, CSS, React), back-end (Javascript, NodeJs) e Banco de Dados (SQL). Dedicado a melhorar continuamente a qualidade do código e otimizar o desempenho do software.
 
-🌱 Atualmente estou aprendendo [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview).
+🌱 Atualmente tenho conhecimento em HTML, CSS, e estou aprendendo [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview).
 
 📧 Você pode me enviar um [email](mailto:carlosgpo@hotmail.com) e tentarei responder o mais rápido possível.
 
